@@ -1,14 +1,14 @@
+
 {
-    "name": "Template Plugin",
-    "description": "A plugin for use as a template.",
-    "authors": [
-        {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
-        }
-    ],
-    "main": "src/index.ts",
-    "vendetta": {
-        "icon": "ic_badge_staff"
+  "authors": [
+    {
+      "id": "492949202121261067",
+      "name": "amsyarasyiq"
     }
+  ],
+  "repo": "https://github.com/amsyarasyiq/aliucordrn-plugins",
+  "license": "MIT",
+  "name": "RichPresence",
+  "description": "Allows you to set your Discord Rich Presence based on your last.fm or your custom settings",
+  "version": "0.1.0"
 }
